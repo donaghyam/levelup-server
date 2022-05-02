@@ -1,0 +1,38 @@
+[
+    {
+        "model": "levelupapi.games",
+        "pk": 1,
+        "fields": {
+            "game_type": 1,
+            "title": "Sailing The Seas of Cheese",
+            "maker": "Primus",
+            "gamer": 1,
+            "number_of_players": 39,
+            "skill_level": "Expert"
+        }
+    },
+    {
+        "model": "levelupapi.games",
+        "pk": 2,
+        "fields": {
+            "game_type": 2,
+            "title": "Bored Game",
+            "maker": "Tropicana",
+            "gamer": 1,
+            "number_of_players": 9,
+            "skill_level": "Beginner"
+        }
+    },
+    {
+        "model": "levelupapi.games",
+        "pk": 3,
+        "fields": {
+            "game_type": 3,
+            "title": "Portal 2",
+            "maker": "Valve",
+            "gamer": 1,
+            "number_of_players": 2,
+            "skill_level": "Expert"
+        }
+    }
+]
